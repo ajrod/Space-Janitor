@@ -7,7 +7,7 @@ is very much incomplete but some day (maybe never?) when I have spare time I pla
 
 The code is well documented and was built using NetBeans so included is a NetBeans project (although Eclipse
 could just as easily  be used). Space Janitor was built quite a while ago, back when I was not as familiar with 
-Java as I am now. Creating this game served as a greate exercise in Java and Objected Oriented Programming in general.
+Java as I am now. Creating this game served as a greate exercise in Java and Object Oriented Programming in general.
 
 Controls
 -------
